@@ -66,3 +66,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# xplorer
+
+A new file explorer that aims to make the developers workflow a little bit more confortable
+
+## File structure
+
+xplorer ┐  
+ |  
+ ├ src ┐  
+ | ├ App.css  
+ | ├ App.js  
+ | ├ index.css  
+ | ├ index.js  
+ | ├ NavbarComponent ┐  
+ | | ├ Navbar.css  
+ | | └ Navbar.js  
+ . .  
+ . .  
+ . .
